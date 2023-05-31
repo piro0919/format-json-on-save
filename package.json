@@ -8,7 +8,7 @@
   "dependencies": {
     "deep-sort-object": "1.0.2",
     "fs-extra": "10.0.0",
-    "prettier": "2.3.2"
+    "prettier": "2.8.8"
   },
   "description": "",
   "devDependencies": {
@@ -16,7 +16,7 @@
     "@types/glob": "7.1.4",
     "@types/mocha": "8.2.3",
     "@types/node": "14.17.9",
-    "@types/prettier": "2.3.2",
+    "@types/prettier": "2.7.3",
     "@types/vscode": "1.59.0",
     "@typescript-eslint/eslint-plugin": "4.29.0",
     "@typescript-eslint/parser": "4.29.0",
