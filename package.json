@@ -7,7 +7,7 @@
   ],
   "dependencies": {
     "deep-sort-object": "1.0.2",
-    "fs-extra": "10.0.0",
+    "fs-extra": "10.1.0",
     "prettier": "2.3.2"
   },
   "description": "",
