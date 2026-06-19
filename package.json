@@ -28,7 +28,7 @@
   },
   "displayName": "Format Json On Save",
   "engines": {
-    "vscode": "^1.124.2"
+    "vscode": "^1.125.0"
   },
   "main": "./out/extension.js",
   "name": "format-json-on-save",
